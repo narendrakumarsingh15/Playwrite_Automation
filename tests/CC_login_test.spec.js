@@ -12,8 +12,6 @@ await page.fill('#username', 'qa.auto.sysadmin@michaelpage.com.sit');    // repl
 await page.fill('#password', 'London2025$$$$$');    // replace with actual selector 
 // 3. Click login button
 await page.click('#Login');    // replace with actual selector  
-// 4. Wait for navigation or dashboard to load    
-await page.waitForNavigation();
 console.log('Login successful!');
 // Perform any other actions after login...
 });
