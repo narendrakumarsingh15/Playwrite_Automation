@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1211","has title","chromium","Wed Sep 03 06:16:33 UTC 2025","passed","Wed Sep 03 06:16:34 UTC 2025","","example.spec.js","",""
+"","2367","Login to CC","chromium","Wed Sep 03 06:16:33 UTC 2025","passed","Wed Sep 03 06:16:35 UTC 2025","","CC_login_test.spec.js","",""
+"","30869","Enter Username and password","chromium","Wed Sep 03 05:40:39 UTC 2025","broken","Wed Sep 03 05:41:10 UTC 2025","","CC_login_test.spec.js","",""
+"","30211","Click on Login button","chromium","Wed Sep 03 05:40:43 UTC 2025","broken","Wed Sep 03 05:41:13 UTC 2025","","CC_login_test.spec.js","",""
+"","1556","get started link","chromium","Wed Sep 03 06:16:35 UTC 2025","passed","Wed Sep 03 06:16:36 UTC 2025","","example.spec.js","",""
+"","30083","Clic on Login button","chromium","Wed Sep 03 05:38:31 UTC 2025","broken","Wed Sep 03 05:39:01 UTC 2025","","CC_login_test.spec.js","",""

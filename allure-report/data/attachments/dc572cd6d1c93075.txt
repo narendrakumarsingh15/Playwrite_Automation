@@ -1,0 +1,6 @@
+The page title is: Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2057,
+  [Symbol(trigger_async_id_symbol)]: 860,
+  [Symbol(kResourceStore)]: undefined
+}
