@@ -12,7 +12,7 @@ test('Enter Username and password', async ({ page }) => {
 await page.fill('#username', 'qa.auto.sysadmin@michaelpage.com.sit');    // replace with actual selector
 await page.fill('#password', 'London2025$$$$$');    // replace with actual selector 
 });
-test('Clic on Login button', async ({ page }) => {
+test('Click on Login button', async ({ page }) => {
 // 3. Click login button
 await page.click('#Login');    // replace with actual selector  
 console.log('Login successful!');
