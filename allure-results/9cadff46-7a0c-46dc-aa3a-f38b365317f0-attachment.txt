@@ -1,0 +1,7 @@
+The page title is: Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 2029,
+  [Symbol(trigger_async_id_symbol)]: 861,
+  [Symbol(kResourceStore)]: undefined
+}
+Login successful!

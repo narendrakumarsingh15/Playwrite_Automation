@@ -1,4 +1,5 @@
-const {test, expect} = require('playwright/test');
+// @ts-check
+import { test, expect } from '@playwright/test';
 
 test('Login to CC', async ({ page }) => {
 // 1. Go to login page
